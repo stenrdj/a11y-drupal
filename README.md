@@ -64,15 +64,15 @@ Le defi, c'est les modules de contribution ne respectent pas les règles d'acces
 
 + Assurer que tout les éléments interactive sont accessible par clavier.
 
- [✓]La touche ESC doit quitter le model ou popup.
-	
- [✓]La touche Tabulation doit changer dans un Ordre cohérent le focus entre les liens et éléments interactive JS.
-	
- [✓]Le model de Datepicket doit également permettre a l'utilisateur de saisi la date manuellement.
-	
- [✓]Tout les interaction JS (Ajax) doit etre lu par les lecteurs d'ecran.
-	
- [✓]éviter le max possible les évènements  suivantes: ondblclick,onmousedown,onmouseup,onfocus,onblur tant qu'ils n'ont  accessible par clavier ou lecteur d'ecran .
+		 [✓]	La touche ESC doit quitter le model ou popup.
+			
+		 [✓]	La touche Tabulation doit changer dans un Ordre cohérent le focus entre les liens et éléments interactive JS.
+			
+		 [✓]	Le model de Datepicket doit également permettre a l'utilisateur de saisi la date manuellement.
+			
+		 [✓]	Tout les interaction JS (Ajax) doit etre lu par les lecteurs d'ecran.
+			
+		 [✓]	éviter le max possible les évènements  suivantes: ondblclick,onmousedown,onmouseup,onfocus,onblur tant qu'ils n'ont  accessible par clavier ou lecteur d'ecran .
 
 + L'augmentation de la taille de texte ne doit pas impacter les autres éléments .
 + Fournir aux utilisateurs la possiblité de "Skip content" , passer d'un block vers un autre (Header ,navigation , footer , newsletter ..).
